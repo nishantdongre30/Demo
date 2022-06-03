@@ -14,6 +14,12 @@ function fun2(n){
     return a;
 
 }
+function fun4(n){
+    const a = 10
+    console.log("Hello")
+    return a;
+
+}
 function fun5(n){
     const a = 10
     console.log("Hello")
